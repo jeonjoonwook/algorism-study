@@ -1,0 +1,6 @@
+### Java template
+*.class
+out
+.idea
+.idea/*.xml
+*.iml
