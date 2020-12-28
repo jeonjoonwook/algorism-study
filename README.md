@@ -60,8 +60,8 @@
     [DFS와 BFS](https://www.acmicpc.net/problem/1260)  
     [타일링](https://www.acmicpc.net/problem/1793)
     
--   전준욱
-    [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+-   전준욱  
+    [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
     [LicenseKeyFormatting](https://leetcode.com/problems/license-key-formatting/)
     
 -   최석환
