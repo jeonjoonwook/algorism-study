@@ -41,7 +41,7 @@
 [보석 도둑](https://www.acmicpc.net/problem/1202)  
 [문자열 거리](https://www.acmicpc.net/problem/1230)
 
-* 홍영준
-[보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)
+* 홍영준  
+[보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)  
 [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)
 
