@@ -56,8 +56,8 @@
     [음계](https://www.acmicpc.net/problem/2920)  
     [블랙잭](https://www.acmicpc.net/problem/2798)
  
--   김홍중
-    [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+-   김홍중  
+    [DFS와 BFS](https://www.acmicpc.net/problem/1260)  
     [타일링](https://www.acmicpc.net/problem/1793)
 
 -   전준욱
