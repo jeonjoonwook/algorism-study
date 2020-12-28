@@ -55,3 +55,5 @@
 -   김호섭  
     [음계](https://www.acmicpc.net/problem/2920)  
     [블랙잭](https://www.acmicpc.net/problem/2798)
+    
+-   전준욱
