@@ -1,12 +1,15 @@
 # java-algorism-study
+
 자바 알고리즘 스터디
 
 # 스터디 운영
 
 ## 목표
-* 매일 하나 이상의 알고리즘 문제를 풀고, 정리하는 습관.
+
+-   매일 하나 이상의 알고리즘 문제를 풀고, 정리하는 습관.
 
 ## 방식
+
 1. 스크럼 회의
     - 스터디 모임 전까지의 개인이 공부한 내용과 어떤 문제들을 풀었는지의 대한 공유.
 2. 공통으로 주어진 문제들을 순서대로 발표 및 피드백.
@@ -22,26 +25,33 @@
     - 해당 시간에 해결한 사람이 어떻게 해결했는지 설명
 5. 다음 스터디까지 공통으로 진행할 문제 정하기
     - 사전에 각자 준비한 2문제를 공유하기.(총 10문제)
-        
-## Rule
-- 주의 스터디 `2일 전`까지 불참, 지각 여부를 공유한다
-- `3회` 이상 어길 시, `스터디 퇴출`.
 
-| 날짜 | 내용 | 이름 |  
-| :---: | :---: | :---: |  
+## Rule
+
+-   주의 스터디 `2일 전`까지 불참, 지각 여부를 공유한다
+-   `3회` 이상 어길 시, `스터디 퇴출`.
+
+|    날짜    | 내용 |  이름  |
+| :--------: | :--: | :----: |
 | 2020-12-24 | 지각 | 박춘소 |
 
 ## Schedule
-- 시간: `일요일 저녁 9시`
-- 장소: `디스코드`
+
+-   시간: `일요일 저녁 9시`
+-   장소: `디스코드`
 
 ## 공유 문제
+
 ### 1월 3일
-* 박춘소  
-[보석 도둑](https://www.acmicpc.net/problem/1202)  
-[문자열 거리](https://www.acmicpc.net/problem/1230)
 
-* 홍영준  
-[보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)  
-[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)
+-   박춘소  
+    [보석 도둑](https://www.acmicpc.net/problem/1202)  
+    [문자열 거리](https://www.acmicpc.net/problem/1230)
 
+-   홍영준  
+    [보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832)  
+    [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)
+
+-   김호섭  
+    [음계](https://www.acmicpc.net/problem/2920)  
+    [블랙잭](https://www.acmicpc.net/problem/2798)
