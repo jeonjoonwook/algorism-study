@@ -57,6 +57,5 @@
     [블랙잭](https://www.acmicpc.net/problem/2798)
  
 -   김홍중
-
     [DFS와 BFS](https://www.acmicpc.net/problem/1260)
     [타일링](https://www.acmicpc.net/problem/1793)
