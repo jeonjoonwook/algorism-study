@@ -3,7 +3,7 @@ package com.company.kimho;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BOJ_1224_1 
+public class Main 
 {
     public static void main(String[] args)
     {
