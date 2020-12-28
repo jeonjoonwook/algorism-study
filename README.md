@@ -63,3 +63,7 @@
 -   전준욱
     [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
     [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
+    
+-   최석환
+    [문자열 제곱](https://www.acmicpc.net/problem/4354)  
+    [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
