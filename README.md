@@ -55,3 +55,16 @@
 -   김호섭  
     [음계](https://www.acmicpc.net/problem/2920)  
     [블랙잭](https://www.acmicpc.net/problem/2798)
+ 
+-   김홍중  
+    [DFS와 BFS](https://www.acmicpc.net/problem/1260)  
+    [타일링](https://www.acmicpc.net/problem/1793)
+    
+-   전준욱  
+    [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
+    [LicenseKeyFormatting](https://leetcode.com/problems/license-key-formatting/)
+    
+-   최석환
+
+    [문자열 제곱](https://www.acmicpc.net/problem/4354)  
+    [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
