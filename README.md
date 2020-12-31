@@ -63,8 +63,3 @@
 -   전준욱  
     [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
     [LicenseKeyFormatting](https://leetcode.com/problems/license-key-formatting/)
-    
--   최석환
-
-    [문자열 제곱](https://www.acmicpc.net/problem/4354)  
-    [Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)
