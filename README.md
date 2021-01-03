@@ -75,4 +75,7 @@
     [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)  
     [K 번째 수](https://www.acmicpc.net/problem/1300)
 
+-   전준욱
+    [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+    [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
