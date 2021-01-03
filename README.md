@@ -59,10 +59,7 @@
 -   김홍중  
     [DFS와 BFS](https://www.acmicpc.net/problem/1260)  
     [타일링](https://www.acmicpc.net/problem/1793)
-<<<<<<< HEAD
 
--   전준욱
-=======
     
 -   전준욱  
     [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
@@ -74,4 +71,4 @@
     [편집거리](https://www.acmicpc.net/problem/7620)  
     [후보 추천하기](https://www.acmicpc.net/problem/1713)
 
->>>>>>> 3eb907d66bb8adce491065f35ffce68e281bac67
+
