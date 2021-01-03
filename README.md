@@ -69,6 +69,10 @@
 
 -   박춘소  
     [편집거리](https://www.acmicpc.net/problem/7620)  
-    [후보 추천하기](https://www.acmicpc.net/problem/1713)
+    [후보 추천하기](https://www.acmicpc.net/problem/1713)  
+    
+-   홍영준  
+    [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)  
+    [K 번째 수](https://www.acmicpc.net/problem/1300)
 
 
