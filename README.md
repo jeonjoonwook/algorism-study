@@ -67,6 +67,6 @@
 ### 1월 10일
 
 -   박춘소  
-    [뒤집기 3](https://www.acmicpc.net/problem/1464)  
+    [편집거리](https://www.acmicpc.net/problem/7620)  
     [후보 추천하기](https://www.acmicpc.net/problem/1713)
 
