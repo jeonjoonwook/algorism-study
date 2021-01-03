@@ -63,3 +63,10 @@
 -   전준욱  
     [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
     [LicenseKeyFormatting](https://leetcode.com/problems/license-key-formatting/)
+
+### 1월 10일
+
+-   박춘소
+    [뒤집기 3](https://www.acmicpc.net/problem/1464)
+    [후보 추천하기](https://www.acmicpc.net/problem/1713)
+
