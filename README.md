@@ -83,5 +83,5 @@
     [1,2,3 더하기](https://www.acmicpc.net/problem/9095)
 
 -   이인규
-    [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)
+    [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)   
     [Next Permutation](https://leetcode.com/problems/next-permutation)
