@@ -85,3 +85,7 @@
 -   이인규   
     [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)   
     [Next Permutation](https://leetcode.com/problems/next-permutation)
+    
+-   김수진  
+    [유기농배추](https://www.acmicpc.net/problem/1012)  
+    [해킹](https://www.acmicpc.net/problem/10282)
