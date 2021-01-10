@@ -89,3 +89,10 @@
 -   김수진  
     [유기농배추](https://www.acmicpc.net/problem/1012)  
     [해킹](https://www.acmicpc.net/problem/10282)
+    
+### 1월 17일
+
+-   홍영준  
+    [파티](https://www.acmicpc.net/problem/1238)  
+    [두 배열의 합](https://www.acmicpc.net/problem/2143)
+      
