@@ -95,4 +95,8 @@
 -   홍영준  
     [파티](https://www.acmicpc.net/problem/1238)  
     [두 배열의 합](https://www.acmicpc.net/problem/2143)
+
+-   박춘소  
+    [되돌리기](https://www.acmicpc.net/problem/1360)  
+    [휴게소 세우기](https://www.acmicpc.net/problem/1477)
       
