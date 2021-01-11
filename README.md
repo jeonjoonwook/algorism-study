@@ -103,4 +103,8 @@
 -   김수진  
     [숨바꼭질](https://www.acmicpc.net/problem/1697)  
     [카드 정렬하기](https://www.acmicpc.net/problem/1715)
-      
+
+-   이인규   
+    [Search in Rotated Sorted Array] (https://leetcode.com/problems/search-in-rotated-sorted-array/)   
+    [FindFirstAndLastPositionOfElementInSortedArray] (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
