@@ -99,4 +99,8 @@
 -   박춘소  
     [되돌리기](https://www.acmicpc.net/problem/1360)  
     [휴게소 세우기](https://www.acmicpc.net/problem/1477)
+
+-   김수진  
+    [숨바꼭질](https://www.acmicpc.net/problem/1697)  
+    [카드 정렬하기](https://www.acmicpc.net/problem/1715)
       
