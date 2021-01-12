@@ -100,4 +100,20 @@
 -   박춘소  
     [되돌리기](https://www.acmicpc.net/problem/1360)  
     [휴게소 세우기](https://www.acmicpc.net/problem/1477)
-      
+
+-   김수진  
+    [숨바꼭질](https://www.acmicpc.net/problem/1697)  
+    [카드 정렬하기](https://www.acmicpc.net/problem/1715)
+
+-   이인규   
+    [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)   
+    [FindFirstAndLastPositionOfElementInSortedArray](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+    
+-   김홍중  
+    [연속합](https://www.acmicpc.net/problem/1912)  
+    [2xn타일링](https://www.acmicpc.net/problem/11726)  
+    
+-    전준욱  
+    [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  
+    [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  
+
