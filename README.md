@@ -135,3 +135,7 @@
 -   김수진  
     [중량제한](https://www.acmicpc.net/problem/1939)  
     [문제집](https://www.acmicpc.net/problem/1766)
+
+-   김홍중  
+    [바이러스](https://www.acmicpc.net/problem/2606)  
+    [전쟁-전투](https://www.acmicpc.net/problem/1303)  
