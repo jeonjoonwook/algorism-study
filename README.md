@@ -127,3 +127,7 @@
 -   박춘소  
     [H-Index]](https://programmers.co.kr/learn/courses/30/lessons/42747)  
     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+
+-   전준욱  
+    [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  
+    [Baseball Game](https://leetcode.com/problems/baseball-game/)  
