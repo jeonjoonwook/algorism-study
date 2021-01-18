@@ -125,7 +125,7 @@
     [세 용액](https://www.acmicpc.net/problem/2473)
 
 -   박춘소  
-    [H-Index]](https://programmers.co.kr/learn/courses/30/lessons/42747)  
+    [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)  
     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
 
 -   전준욱  
