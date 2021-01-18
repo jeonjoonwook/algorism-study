@@ -125,5 +125,13 @@
     [세 용액](https://www.acmicpc.net/problem/2473)
 
 -   박춘소  
-    [H-Index]](https://programmers.co.kr/learn/courses/30/lessons/42747)  
+    [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)  
     [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+
+-   전준욱  
+    [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  
+    [Baseball Game](https://leetcode.com/problems/baseball-game/)  
+
+-   김수진  
+    [중량제한](https://www.acmicpc.net/problem/1939)  
+    [문제집](https://www.acmicpc.net/problem/1766)
