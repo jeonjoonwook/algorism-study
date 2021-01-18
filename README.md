@@ -117,4 +117,10 @@
 -    전준욱  
     [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  
     [Group Anagrams](https://leetcode.com/problems/group-anagrams/)  
+    
+### 1월 24일
+
+-   홍영준  
+    [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)  
+    [세 용액](https://www.acmicpc.net/problem/2473)
 
