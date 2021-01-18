@@ -131,3 +131,7 @@
 -   전준욱  
     [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)  
     [Baseball Game](https://leetcode.com/problems/baseball-game/)  
+
+-   김수진  
+    [중량제한](https://www.acmicpc.net/problem/1939)  
+    [문제집](https://www.acmicpc.net/problem/1766)
