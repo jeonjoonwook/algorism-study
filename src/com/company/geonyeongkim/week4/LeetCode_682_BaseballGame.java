@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by geonyeong.kim on 2021-01-23
  */
-public class LeeCode_682_BaseballGame {
+public class LeetCode_682_BaseballGame {
     public int calPoints(String[] ops) {
         List<Integer> list = new ArrayList<>();
 
