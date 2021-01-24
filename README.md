@@ -139,3 +139,9 @@
 -   김홍중  
     [바이러스](https://www.acmicpc.net/problem/2606)  
     [전쟁-전투](https://www.acmicpc.net/problem/1303)  
+
+### 1월 31일
+
+-   김건영  
+    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
+    [Permutations](https://leetcode.com/problems/permutations/)
