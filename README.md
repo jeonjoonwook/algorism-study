@@ -144,4 +144,8 @@
 
 -   김건영  
     [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
-    [Permutations](https://leetcode.com/problems/permutations/)
+    [Permutations](https://leetcode.com/problems/permutations/)  
+    
+-   홍영준  
+    [사냥터](https://www.acmicpc.net/problem/8983)  
+    [경로찾기](https://www.acmicpc.net/problem/8983)
