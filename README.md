@@ -161,3 +161,7 @@
 -   전준욱  
    [ClimbingStairs](https://leetcode.com/problems/climbing-stairs/)  
    [UniquePath](https://leetcode.com/problems/unique-paths/)  
+
+-   김수진  
+    [0 만들기](https://www.acmicpc.net/problem/7490)  
+    [친구 네트워크](https://www.acmicpc.net/problem/4195)
