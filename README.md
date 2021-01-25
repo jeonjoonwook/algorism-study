@@ -156,4 +156,8 @@
 
 -   이인규   
     [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)   
-    [Combination Sum](https://leetcode.com/problems/combination-sum/)   
+    [Combination Sum](https://leetcode.com/problems/combination-sum/)     
+    
+-   전준욱  
+    [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+    [Unique Path](https://leetcode.com/problems/unique-paths/)  
