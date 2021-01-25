@@ -153,3 +153,7 @@
 -   박춘소  
     [줄세우기](https://www.acmicpc.net/problem/2631)  
     [소수의곱](https://www.acmicpc.net/problem/2014)
+
+-   이인규   
+    [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)   
+    [Combination Sum](https://leetcode.com/problems/combination-sum/)   
