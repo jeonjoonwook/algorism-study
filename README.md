@@ -148,4 +148,8 @@
     
 -   홍영준  
     [사냥터](https://www.acmicpc.net/problem/8983)  
-    [경로찾기](https://www.acmicpc.net/problem/11403)
+    [경로찾기](https://www.acmicpc.net/problem/11403)   
+       
+-   이인규
+    [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)   
+    [Combination Sum](https://leetcode.com/problems/combination-sum/)   
