@@ -159,5 +159,5 @@
     [Combination Sum](https://leetcode.com/problems/combination-sum/)     
     
 -   전준욱  
-    [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-    [Unique Path](https://leetcode.com/problems/unique-paths/)  
+   [ClimbingStairs](https://leetcode.com/problems/climbing-stairs/)
+   [UniquePath](https://leetcode.com/problems/unique-paths/)  
