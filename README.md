@@ -165,3 +165,9 @@
 -   김수진  
     [0 만들기](https://www.acmicpc.net/problem/7490)  
     [친구 네트워크](https://www.acmicpc.net/problem/4195)
+
+### 2월 7일
+
+-   홍영준    
+    [치즈](https://www.acmicpc.net/problem/2636)
+    [오름세](https://www.acmicpc.net/problem/3745)
