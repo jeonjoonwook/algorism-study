@@ -175,5 +175,4 @@
 -   김건영
     [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  
     [Permutations II](https://leetcode.com/problems/permutations-ii/)
-    
-    [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) - 선택입니다ㅎㅎㅎ Permutations II 가 저번거랑 비슷한거여서
+    [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) : 선택입니다ㅎㅎㅎ Permutations II 가 저번거랑 비슷한거여서
