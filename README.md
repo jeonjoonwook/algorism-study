@@ -168,6 +168,5 @@
 
 ### 2월 7일
 
--   홍영준  
-    [반도체 설계](https://www.acmicpc.net/problem/2352)  
+-   홍영준    
     [치즈](https://www.acmicpc.net/problem/2636)
