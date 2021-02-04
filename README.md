@@ -171,3 +171,15 @@
 -   홍영준    
     [치즈](https://www.acmicpc.net/problem/2636)  
     [오름세](https://www.acmicpc.net/problem/3745)
+
+-   김건영    
+    [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  
+    [Permutations II](https://leetcode.com/problems/permutations-ii/)  
+    [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) : 선택입니다ㅎㅎㅎ Permutations II 가 저번거랑 비슷한거여서
+
+-   박춘소    
+    [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  
+    [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)   
+-   전준욱  
+    [Coin Change](https://leetcode.com/problems/coin-change/)  
+    [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)  
