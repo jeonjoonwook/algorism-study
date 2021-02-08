@@ -186,6 +186,6 @@
     
 ### 2월 14일
 
--   홍영준
+-   홍영준  
     [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)  
     [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
