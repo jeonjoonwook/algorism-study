@@ -189,3 +189,6 @@
 -   홍영준  
     [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)  
     [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
+-   김건영  
+    [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
+    [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)  
