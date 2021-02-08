@@ -183,3 +183,9 @@
 -   전준욱  
     [Coin Change](https://leetcode.com/problems/coin-change/)  
     [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)  
+    
+### 2월 14일
+
+-   홍영준
+    [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)  
+    [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
