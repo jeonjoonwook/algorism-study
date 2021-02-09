@@ -194,4 +194,7 @@
     [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)  
 -   박춘소  
     [가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275)  
-    [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)  
+    [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)    
+-   전준욱  
+    [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   
+    [Number of Islands](https://leetcode.com/problems/number-of-islands/)
