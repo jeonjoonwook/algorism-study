@@ -10,7 +10,7 @@ public class Solution {
 
         HashMap<String, Integer> hashMap = new HashMap<>();
 
-        for (int i = 0; i < s.length() - 10; i++) {
+        for (int i = 0; i <= s.length() - 10; i++) {
             // 문자열에서 i 부터 i+10 까지 Key 를 검사해서 존재하면 기존 값에 1 을 더한다.
             // 아니라면 0 넣는다.
             if (hashMap.containsKey(s.substring(i, i + 10))) {
