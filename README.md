@@ -183,3 +183,18 @@
 -   전준욱  
     [Coin Change](https://leetcode.com/problems/coin-change/)  
     [Valid parentheses](https://leetcode.com/problems/valid-parentheses/)  
+    
+### 2월 14일
+
+-   홍영준  
+    [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)  
+    [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)  
+-   김건영  
+    [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
+    [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)  
+-   박춘소  
+    [가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275)  
+    [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)    
+-   전준욱  
+    [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   
+    [Number of Islands](https://leetcode.com/problems/number-of-islands/)
