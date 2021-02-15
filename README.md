@@ -204,3 +204,6 @@
 -   홍영준  
     [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem)  
     [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)
+-   김건영  
+    [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  
+    [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
