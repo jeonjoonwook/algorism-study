@@ -206,4 +206,7 @@
     [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)
 -   김건영  
     [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  
-    [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+    [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  
+-   전준욱  
+    [subsets](https://leetcode.com/problems/subsets/)   
+    [generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)  
