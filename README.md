@@ -210,3 +210,6 @@
 -   전준욱  
     [subsets](https://leetcode.com/problems/subsets/)   
     [generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)  
+-   박춘소    
+    [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)   
+    [minimum-loss](https://www.hackerrank.com/challenges/minimum-loss/problem)  
