@@ -1,7 +1,5 @@
 package com.company.hongyeongjune.week8;
 
-package 해커링크.sorting.FradulentActivityNotifications;
-
 import java.io.*;
 import java.util.*;
 
