@@ -213,3 +213,10 @@
 -   박춘소    
     [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)   
     [minimum-loss](https://www.hackerrank.com/challenges/minimum-loss/problem)  
+    
+### 2월 28일
+
+-   홍영준  
+    [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem)  
+    [Pairs](https://www.hackerrank.com/challenges/pairs/problem)  
+    
