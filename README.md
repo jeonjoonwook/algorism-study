@@ -219,4 +219,9 @@
 -   홍영준  
     [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem)  
     [Pairs](https://www.hackerrank.com/challenges/pairs/problem)  
+-   김건영  
+    [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  
+    [Word Break](https://leetcode.com/problems/word-break/)  
+    
+
     
