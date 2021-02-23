@@ -222,6 +222,9 @@
 -   김건영  
     [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  
     [Word Break](https://leetcode.com/problems/word-break/)  
+-   전준욱  
+    [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
+    [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
     
 
     
