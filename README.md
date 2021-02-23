@@ -213,3 +213,18 @@
 -   박춘소    
     [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)   
     [minimum-loss](https://www.hackerrank.com/challenges/minimum-loss/problem)  
+    
+### 2월 28일
+
+-   홍영준  
+    [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem)  
+    [Pairs](https://www.hackerrank.com/challenges/pairs/problem)  
+-   김건영  
+    [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  
+    [Word Break](https://leetcode.com/problems/word-break/)  
+-   전준욱  
+    [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
+    [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+    
+
+    
