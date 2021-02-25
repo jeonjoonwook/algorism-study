@@ -1,4 +1,4 @@
-package com.company.hongyeongjune.week9;
+package com.company.hongyeongjune.week9.HackerRank_GridlandMetro;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
