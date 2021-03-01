@@ -241,3 +241,6 @@
 -   현재호  
     [Equal](https://www.hackerrank.com/challenges/equal/problem)  
     [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem)  
+-   김건영  
+    [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
+    [Word Ladder](https://leetcode.com/problems/word-ladder/)  
