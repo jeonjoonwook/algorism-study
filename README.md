@@ -238,3 +238,6 @@
 -   홍영준  
     [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)  
     [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)  
+-   현재호  
+    [Equal](https://www.hackerrank.com/challenges/equal/problem)  
+    [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem)  
