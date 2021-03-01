@@ -235,4 +235,6 @@
 -   전준욱  
     [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  
     [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
-    
+-   홍영준  
+    [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)  
+    [Max Min](https://www.hackerrank.com/challenges/angry-children/problem)  
