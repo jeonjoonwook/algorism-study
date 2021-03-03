@@ -16,9 +16,9 @@ public class Solution {
 
         Arrays.sort(c);
 
-        for (int i = c.length - 1; i >= 0; i++) {
-            if (i % k == 0) count++;
-            answer += c[i] * count;
+        for(int i=0; i<c.length; i++) {
+            if(i!=0 && i%k == 0) count++;
+            answer += c[c.length-1-i] * count;
         }
 
         return answer;
