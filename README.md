@@ -250,4 +250,7 @@
 ### 3월 14일
 -   현재호   
     [Equal](https://www.hackerrank.com/challenges/equal/problem)  
-    [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem)
+    [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem)  
+-   홍영준  
+    [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem)  
+    [Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem)  
