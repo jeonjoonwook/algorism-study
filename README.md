@@ -244,3 +244,10 @@
 -   김건영  
     [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
     [Word Ladder](https://leetcode.com/problems/word-ladder/)  
+
+
+
+### 3월 14일
+-   현재호   
+    [Equal](https://www.hackerrank.com/challenges/equal/problem)  
+    [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem)
