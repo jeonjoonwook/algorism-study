@@ -253,7 +253,7 @@
     [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem)  
 -   홍영준  
     [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem)  
-    [Construct the Array](https://www.hackerrank.com/challenges/construct-the-array/problem)  
+    [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem)  
 -   김건영  
     [3Sum](https://leetcode.com/problems/3sum/)  
     [Course Schedule](https://leetcode.com/problems/course-schedule/)  
