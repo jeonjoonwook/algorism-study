@@ -257,7 +257,7 @@
 -   김건영  
     [3Sum](https://leetcode.com/problems/3sum/)  
     [Course Schedule](https://leetcode.com/problems/course-schedule/)  
--   전준욱
+-   전준욱  
     [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  
     [4Sum](https://leetcode.com/problems/4sum/)  
 
