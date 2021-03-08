@@ -15,14 +15,16 @@ public class Solution {
     // Complete the cost function below.
     static long cost(int[] B) {
 
-        long answer = 0;
+        long[][] dp = new long[B.length][2];
 
-        for (int i = 0; i < B.length - 1; i++) {
-            answer += (Math.abs(B[i + 1] - B[i])) % MOD;
-            System.out.println(answer);
+        for(int i=1; i<dp.length; i++) {
+            // 1을 선택하는 경우
+            dp[i][0] = Math.max(dp[i-1][0], dp[i-1][1] + (B[i-1] - 1)) % MOD;
+            // B[i]를 선택하는 경우
+            dp[i][1] = Math.max(dp[i-1][0] + B[i] - 1, dp[i-1][1] + Math.abs(B[i] - B[i-1])) % MOD;
         }
 
-        return answer % MOD;
+        return Math.max(dp[B.length-1][0], dp[B.length-1][1]) % MOD;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
