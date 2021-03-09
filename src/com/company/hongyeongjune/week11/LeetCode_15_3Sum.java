@@ -1,32 +1,35 @@
 package com.company.hongyeongjune.week11;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Solution {
-    public int threeSumClosest(int[] nums, int target) {
+    public List<List<Integer>> threeSum(int[] nums) {
 
-        int answer = Integer.MAX_VALUE;
+        Set<List<Integer>> answer = new HashSet<>();
 
         // 정렬
         Arrays.sort(nums);
 
         for (int i = 0; i < nums.length - 1; i++) {
-            // 정렬된 값 기준으로 투 포인터 실행
+
+            // 정렬된 값 기준으로 투포인터 실행
             int left = i + 1;
             int right = nums.length - 1;
 
             while (left < right) {
 
                 int sum = nums[i] + nums[left] + nums[right];
-
-                if (Math.abs(sum - target) < Math.abs(answer)) {
-                    answer = sum - target;
-                } else if (sum > target) right--;
+                if (sum == 0) {
+                    List<Integer> temp = new ArrayList<>(Arrays.asList(nums[i], nums[left], nums[right]));
+                    if (!answer.contains(temp)) answer.add(temp);
+                    left++;
+                    right--;
+                } else if (sum > 0) right--;
                 else left++;
-
             }
         }
 
-        return target + answer;
+        return new ArrayList<>(answer);
+
     }
 }
