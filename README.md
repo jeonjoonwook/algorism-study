@@ -271,3 +271,8 @@
     [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)  
     [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)  
     [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
+-   현재호  
+    [Knight Dialer](https://leetcode.com/problems/knight-dialer/)  
+    [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)  
+    [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)  
+    [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
