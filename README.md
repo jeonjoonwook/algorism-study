@@ -276,3 +276,10 @@
     [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)  
     [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)  
     [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+    
+   
+### 3월 28일  
+-   홍영준  
+    [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)  
+    [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)  
+    [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
