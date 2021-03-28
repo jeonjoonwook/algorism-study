@@ -270,7 +270,6 @@
     [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)  
     [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)  
     [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)  
-    [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
 -   현재호  
     [Knight Dialer](https://leetcode.com/problems/knight-dialer/)  
     [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)  
@@ -282,7 +281,6 @@
 -   홍영준  
     [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)  
     [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)  
-    [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
 -   전준욱  
     [Combination Sum](https://leetcode.com/problems/combination-sum/)  
     [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/)
