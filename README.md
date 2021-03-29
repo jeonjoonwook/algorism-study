@@ -286,7 +286,7 @@
 ### 4월 4일  
 -   홍영준  
     [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)  
-    [ount Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)  
+    [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)  
 -   전준욱  
     [Combination Sum](https://leetcode.com/problems/combination-sum/)  
     [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/)  
