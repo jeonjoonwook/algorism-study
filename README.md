@@ -281,12 +281,12 @@
 -   홍영준  
     [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)  
     [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)  
--   전준욱  
-    [Combination Sum](https://leetcode.com/problems/combination-sum/)  
-    [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/)  
     
     
 ### 4월 4일  
 -   홍영준  
     [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)  
-    [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
+    [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)  
+-   전준욱  
+    [Combination Sum](https://leetcode.com/problems/combination-sum/)  
+    [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/)  
