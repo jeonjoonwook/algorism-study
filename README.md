@@ -290,3 +290,6 @@
 -   전준욱  
     [Combination Sum](https://leetcode.com/problems/combination-sum/)  
     [Combination Sum2](https://leetcode.com/problems/combination-sum-ii/)  
+-   현재호  
+    [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  
+    [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
