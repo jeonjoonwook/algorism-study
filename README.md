@@ -293,3 +293,6 @@
 -   현재호  
     [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  
     [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+-   김건영  
+    [Rotate Array](https://leetcode.com/problems/rotate-array/)  
+    [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  
